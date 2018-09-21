@@ -1,0 +1,31 @@
+_repo: Human-Leopards-An-Account-of-the-Trials-of-Human-Leopards-before-the-Special-Commission-Court__54086
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beatty, Kenneth James, Sir
+    alias: Beatty, Sir Kenneth James
+    birthdate: 1878
+    gutenberg_agent_id: '47702'
+    url: http://www.gutenberg.org/2009/agents/47702
+description: ''
+gutenberg_issued: '2017-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54086'
+  lccn: '16022060'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sierra Leone -- History'
+- !lcsh 'Leopard men'
+- !lcsh 'Cannibalism'
+- !lcc 'GN'
+- !lcsh 'Ethnology -- Sierra Leone'
+- GITenberg
+title: 'Human Leopards
+
+  An Account of the Trials of Human Leopards before the Special Commission Court;
+  With a Note on Sierra Leone, Past and Present'
+url: http://www.gutenberg.org/ebooks/54086
