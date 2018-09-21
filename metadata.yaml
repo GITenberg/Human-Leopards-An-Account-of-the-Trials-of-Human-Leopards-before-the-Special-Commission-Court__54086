@@ -1,5 +1,8 @@
 _repo: Human-Leopards-An-Account-of-the-Trials-of-Human-Leopards-before-the-Special-Commission-Court__54086
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54086-h/images/cover.jpg
 creator:
   author:
     agent_name: Beatty, Kenneth James, Sir
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47702'
     url: http://www.gutenberg.org/2009/agents/47702
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54086#Human-Leopards-An-Account-of-the-Trials-of-Human-Leopards-before-the-Special-Commission-Court_
 gutenberg_issued: '2017-01-31'
 gutenberg_type: Text
 identifiers:
